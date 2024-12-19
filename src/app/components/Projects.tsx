@@ -15,10 +15,10 @@ const projects = [
     link: 'https://www.youtube.com/watch?v=5_VQfDKDo-Q',
   },
   {
-    title: '진행중인 프로젝트',
-    description: '아직 진행중인 프로젝트가 없습니다.',
+    title: '블로그',
+    description: '공부한 내용들을 업로드할 블로그입니다.',
     imageUrl: '/images/img.jpeg',
-    link: '',
+    link: 'https://blog.naver.com/yebinj4',
   },
 ]
 

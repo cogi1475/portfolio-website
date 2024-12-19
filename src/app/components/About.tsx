@@ -16,9 +16,9 @@ const About = () => {
         className="text-lg md:text-xl max-w-2xl mx-auto text-white leading-relaxed
 "
       >
-        제 좋아하는 것은 책, 전자기기, 친구들과의 시간입니다. 또한 싫어하는 것은
-        시끄러운 소음입니다. 마지막으로 취미는 독서, 웹서핑, 전자기기 정보
-        정리가 있습니다.
+        제가 아직까지 많이 부족해서 스스로 진행한 프로젝트는 없지만 해당 활동을
+        통해 배운 것들을 통해 배운 것들을 활용해 다양한 기능들을 구현해보는 것을
+        위주로 공부를 해나가고자 합니다.
       </p>
 
       {/* Button Link to Projects */}
