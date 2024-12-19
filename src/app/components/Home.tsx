@@ -17,7 +17,7 @@ const Home = () => {
       </div>
 
       <h1 className="text-4xl md:text-5xl font-extrabold text-white mb-10">
-        안녕하세요 저는 정예빈입니다.
+        안녕하세요 저는 정예빈입니다. 학번 : 92313635 전공 : 정보보호학과
       </h1>
 
       <p className="text-lg md:text-xl max-w-2xl mx-auto text-white leading-relaxed"></p>
